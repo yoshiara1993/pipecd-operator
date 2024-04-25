@@ -1,6 +1,11 @@
 {
-    "api": "2.0.0",
-    "server": "2.1.2",
-    "text": "PrusaLink MINITEST",
-    "hostname": "PrusaMINITEST2222"
+    "Healthdeepdata": {
+        "MemoryUsage": {
+            "Used": 32505856,
+            "Committed": 94371840,
+            "Free": 772800512,
+            "Total": 805306368,
+            "Max": 805306368
+        }
+    }
 }
