@@ -1,12 +1,14 @@
-{
-    "api": "2.0.0",
-    "server": "2.1.2",
-    "text": "PrusaLink MINI",
-    "hostname": "PrusaMINI"
-},
-{
-    "api": "3.0.0",
-    "server": "4.1.2",
-    "text": "TESTOKIO",
-    "hostname": "PrusaMINI333"
-}
+[
+    {
+        "api": "2.0.0",
+        "server": "2.1.2",
+        "text": "PrusaLink MINI",
+        "hostname": "PrusaMINI"
+    },
+    {
+        "api": "3.0.0",
+        "server": "4.1.2",
+        "text": "TESTOKIO",
+        "hostname": "PrusaMINI333"
+    }
+]
